@@ -234,7 +234,6 @@
 }
 
 .footer {
-  height: 180px;
   padding: 180px 50px 88px;
   display: grid;
   grid-template-columns: auto 1fr auto;
