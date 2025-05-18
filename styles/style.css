@@ -12,15 +12,16 @@
   gap: 31px 34px;
   font-size: 18px;
   font-weight: 400;
-  text-underline-offset: 4px; 
+  text-underline-offset: 4px;
 }
 
+
 .header__link_active {
-  text-decoration: none; 
+  text-decoration: none;
 }
 
 .header__links-list-item {
-  list-style-type: circle; 
+  list-style-type: circle;
 }
 
 .header__links-list-item_no-bullit {
@@ -100,13 +101,13 @@
 .cover__description-text {
   font-size: 22px;
   font-weight: 400;
-  line-height: 28px; 
+  line-height: 28px;
   word-spacing: 18.5px;
 }
 
 .bet-button {
   width: 256px;
-  height: 51px;  
+  height: 51px;
   border: 1px solid white;
   background-color: transparent;
   color: white;
@@ -130,7 +131,7 @@
 
 .lots__card-list {
   display: flex;
-  list-style-type: none; 
+  list-style-type: none;
 }
 
 .card {
@@ -139,7 +140,6 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-  height: 100%; 
   display: flex;
   flex-direction: column;
   width: 334px;
@@ -171,12 +171,12 @@
   text-decoration-line: underline;
 }
 
-.card-link{
+.card-link {
   text-decoration-color: white;
   text-decoration: none;
 }
 
-.card__text{
+.card__text {
   color: white;
   font-size: 20px;
   font-weight: 400;
@@ -187,7 +187,7 @@
   display: flex;
   font-size: 20px;
   font-weight: 400;
-  text-underline-offset: 4px; 
+  text-underline-offset: 4px;
   margin-top: 30px;
   margin-left: 40px;
 }
@@ -241,7 +241,7 @@
 }
 
 .footer__menu-list-item {
-  list-style-type: none; 
+  list-style-type: none;
   text-underline-offset: 4px;
 }
 
